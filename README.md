@@ -1,8 +1,3 @@
-Here’s a polished, well-organized **README.md** draft for your *Smart Voting System* project—refined for clarity, structure, and completeness. Let me know if you'd like tweaks or additions!
-
----
-
-```markdown
 # Smart Voting System
 
 **Smart Voting System** is an intelligent and secure voting solution that modernizes traditional election procedures through facial recognition, machine learning–based voter authentication, fraud detection, and automated vote counting—all running on Python.
