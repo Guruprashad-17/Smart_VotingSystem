@@ -47,7 +47,7 @@
    ```bash
    git clone https://github.com/Guruprashad-17/Smart_VotingSystem.git
    cd Smart_VotingSystem
-````
+   ```
 
 2. **Install dependencies**
 
