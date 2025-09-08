@@ -59,11 +59,10 @@
    * Create a folder (e.g., `data/`) and populate it with facial images for each voter.
    * Ensure proper naming conventions (e.g., `voterID_name.jpg`) for easy mapping.
 
-4. **Add voter faces**
-   Run:
+Add voter faces
+Run:
+python add_faces.py
 
-   ```bash
-   python add_faces.py
    ```
 
    to register voter images into your system.
